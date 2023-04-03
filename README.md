@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://framormar.es/"><img alt="Website" src="https://img.shields.io/badge/Website-https://framormar.es/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/francisco-morales-martinez-a4a4b7242/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Francisco%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/francisco-morales-martinez-a4a4b7242/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Francisco%20Morales%20Martinez-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/framormar/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-framormar-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:framormar01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-framormar01@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
