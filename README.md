@@ -1,14 +1,12 @@
-<img src="https://www.canva.com/design/DAFfEYsdm9w/-y-gxk4QKtHmGfQH3Oe8pA/view?utm_content=DAFfEYsdm9w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-
 <h2> Hey there! I'm Framormar.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studying Computer Science and Chemistry at University of Seville.
+- 💼 &nbsp; Working as a Game Developer and Teaching new era.
+- 🌱 &nbsp; Learning more about Cybersecurity, Reality Aumented and Artificial Intelligence.
+- ✍️ &nbsp; I love write poetry and do quantum mechanical physics.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -57,5 +55,3 @@
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
